@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1e1b4b,70:312e81,100:4c1d95&height=220&section=header&text=P%20Harish&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Cricket%20%2B%20Code%20%3D%20Life&descAlignY=62&descSize=16&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+![Header](./header.svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║          P HARISH  —  DEVELOPER INNINGS  —  IN PROGRESS         ║
-╠══════════╦══════════════╦══════════════╦═════════╦══════════════╣
+╠══════════╦══════════════╦══════════════╬═════════╦══════════════╣
 ║  PLAYER  ║    STACK     ║   PROJECTS   ║  OVERS  ║    STATUS    ║
 ╠══════════╬══════════════╬══════════════╬═════════╬══════════════╣
 ║ P Harish ║ React+Python ║  Full Stack  ║ 3rd yr  ║  NOT OUT 🏏  ║
@@ -204,6 +204,6 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:312e81,70:1e1b4b,100:020617&height=140&section=footer&text=Play%20Hard.%20Code%20Harder.&fontSize=22&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" width="100%"/>
+![Footer](./footer.svg)
 
 </div>
